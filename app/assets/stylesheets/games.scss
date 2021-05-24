@@ -1,0 +1,15 @@
+// Place all the styles related to the games controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+
+.letter-boxes {
+  display: flex;
+  justify-content: space-between;
+  width: 1000px;
+}
+
+.individual-letter-box {
+  border-style: solid;
+  border-width: 0.4px;
+  border-color: grey;
+}
